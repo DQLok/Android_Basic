@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--sinh ra trong file R-->
+    <item name="edtProductName" type="id"/>
+    <item name="edtProductPrice" type="id"/>
+</resources>
