@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SE1417_day09_list</string>
+    <string-array name="listSubject">
+        <item>PRJ301</item>
+        <item>PRM391</item>
+        <item>PRM392</item>
+        <item>Capstone</item>
+    </string-array>
+</resources>
